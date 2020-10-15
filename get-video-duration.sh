@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # This script extracts the length of a given media file and prints it in seconds.
 
 if [[ -f "$1" ]]; then
